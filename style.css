@@ -53,12 +53,19 @@
     flex-direction: row;
     justify-content: center;
 }
+.wrapper{
+    align-items: center; 
+    justify-content: space-evenly; 
+    display: flex;
+}
 .portfolio {
     padding-top: 1em;
     width: 100%;
     height: 100%;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
+    max-width: 2000px;
     flex-wrap: wrap;
     gap: 1em;
 }
