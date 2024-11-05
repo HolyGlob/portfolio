@@ -65,7 +65,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    max-width: 2000px;
+    max-width: 1750px;
     flex-wrap: wrap;
     gap: 1em;
 }
